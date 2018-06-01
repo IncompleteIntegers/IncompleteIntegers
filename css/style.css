@@ -23,7 +23,5 @@
   list-style-type: none;
 }
 .list {
-  background-color: PeachPuff;
-  display: inline;
-  list-style-type: inherit;
+  list-style-type: initial;
 }
