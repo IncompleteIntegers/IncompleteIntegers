@@ -10,7 +10,7 @@
   text-align: center;
 }
 .nav {
-  border-width: 1px;
+  border-width: 0px;
   background-color: MistyRose;
   padding: 10px 5px;
   text-align: center;
@@ -19,6 +19,8 @@
   background-color: MistyRose;
   padding: 6px 3px;
   border-width: 1px;
-  list-style-type: none;
   border-radius: 10px
+}
+ul {
+  list-style-type: none;
 }
