@@ -9,6 +9,7 @@
 }
 .nav {
   border-width: 1px;
+  border-radius: 5px;
   padding: 10px 10px;
   text-align: center;
 }
