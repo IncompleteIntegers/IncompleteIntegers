@@ -7,3 +7,8 @@
   background-color: LightSteelBlue;
 
 }
+.nav {
+  border-width: 1px;
+  padding: 10px 10px;
+  text-align: center;
+}
