@@ -18,8 +18,7 @@
 .contentsbtn {
   background-color: MistyRose;
   padding: 6px 3px;
-  border-radius: 10px
-}
-ul {
+  border-width: 1px;
   list-style-type: none;
+  border-radius: 10px
 }
