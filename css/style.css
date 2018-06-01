@@ -19,9 +19,21 @@
   border-width: 1px;
   border-radius: 10px
 }
+#fourohfour {
+  background-color: DeepPink;
+}
+#fourofour {
+  cursor: cell;
+}
 .list-s {
   list-style-type: none;
 }
 .list {
   list-style-type: initial;
+}
+button:hover {
+  background-color: PeachPuff;
+}
+button:visited {
+  background-color: MistyRose;
 }
