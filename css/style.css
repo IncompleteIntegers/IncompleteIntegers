@@ -1,7 +1,5 @@
 * {
-  background-color: Linen;
-  border-width: 2px;
-  border-color: LavenderBlush;
+  background-color: PowderBlue;
 }
 #uselessbtn {
   background-color: LightSteelBlue;
@@ -11,16 +9,21 @@
 }
 .nav {
   border-width: 0px;
-  background-color: MistyRose;
+  background-color: PapayaWhip;
   padding: 10px 5px;
   text-align: center;
 }
 .contentsbtn {
-  background-color: MistyRose;
+  background-color: PapayaWHip;
   padding: 6px 3px;
   border-width: 1px;
   border-radius: 10px
 }
-ul {
+.list-s {
   list-style-type: none;
+}
+.list {
+  background-color: PeachPuff;
+  display: inline;
+  list-style-type: inherit;
 }
