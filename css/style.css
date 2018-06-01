@@ -5,11 +5,15 @@
 }
 #uselessbtn {
   background-color: LightSteelBlue;
+  border-width: 1px;
+  border-radius: 5px;
+  text-align: center;
+
 
 }
 .nav {
   border-width: 1px;
-  border-radius: 5px;
-  padding: 10px 10px;
+  background-color: MistyRose;
+  padding: 10px 5px;
   text-align: center;
 }
