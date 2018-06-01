@@ -17,7 +17,8 @@
 }
 .contentsbtn {
   background-color: MistyRose;
-  border-radius: 20px
+  padding: 6px 3px;
+  border-radius: 10px
 }
 ul {
   list-style-type: none;
