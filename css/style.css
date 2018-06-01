@@ -21,3 +21,6 @@
   background-color: MistyRose;
   border-radius: 20px
 }
+ul {
+  list-style-type: none;
+}
