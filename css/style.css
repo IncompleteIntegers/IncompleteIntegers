@@ -40,3 +40,11 @@ button:visited {
 .listimg {
   margin: 5px 5px;
 }
+button.accounts {
+  border-width: 1px;
+  background-color: LightSteelBlue;
+  padding: 10px 5px;
+  text-align: center;
+  margin-bottom: 2px;
+  margin-top: 5px;
+}
