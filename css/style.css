@@ -56,3 +56,8 @@ button.accounts {
 .wtf {
   cursor: help;
 }
+#learnit {
+  border-width: 1px;
+  border-color: IndianRed;
+  background-color: PapayaWhip;
+}
