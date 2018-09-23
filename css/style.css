@@ -61,3 +61,7 @@ button.accounts {
   border-color: IndianRed;
   background-color: PapayaWhip;
 }
+#panic {
+  background-color: PapayaWhip;
+  border-width: 0px;
+}
