@@ -8,26 +8,26 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
       <![endif]-->
       <script type="text/javascript">
-      var numberOfSongs = 9
-      var sound = new Array(numberOfSongs+1)
-        sound[0]= "audio/mpaudio/dropitlikeitshot.mp3"
-        sound[1]= "audio/mpaudio/lookatme.mp3"
-        sound[2]= "audio/mpaudio/loseyourself"
-        sound[3]= "audio/mpaudio/maskoff.mp3"
-        sound[4]= "audio/mpaudio/shapeofyou.mp3"
-        sound[5]= "audio/mpaudio/alliwantforchristmas.mp3"
-        sound[6]= "audio/mpaudio/wearenumberone.mp3"
-        sound[7]= "audio/mpaudio/broccoli.mp3"
-        sound[8]= "audio/mpaudio/onedance.mp3"
-      function randomNumber(){
-        var randomLooper = -1
-        while (randomLooper < 0 || randomLooper > numberOfSongs || isNaN(randomLooper)){ randomLooper = parseInt(Math.random()*(numberOfSongs+1))
-        }
-        return randomLooper
-        }
-        var randomsub = randomNumber()
-        var soundFile = sound[randomsub]
-        document.write ('<EMBED src= "' + soundFile + '" hidden=true autostart=true loop=true>')
+        var numberOfSongs = 9
+        var sound = new Array(numberOfSongs+1)
+          sound[0]= "audio/mpaudio/dropitlikeitshot.mp3"
+          sound[1]= "audio/mpaudio/lookatme.mp3"
+          sound[2]= "audio/mpaudio/loseyourself"
+          sound[3]= "audio/mpaudio/maskoff.mp3"
+          sound[4]= "audio/mpaudio/shapeofyou.mp3"
+          sound[5]= "audio/mpaudio/alliwantforchristmas.mp3"
+          sound[6]= "audio/mpaudio/wearenumberone.mp3"
+          sound[7]= "audio/mpaudio/broccoli.mp3"
+          sound[8]= "audio/mpaudio/onedance.mp3"
+        function randomNumber(){
+          var randomLooper = -1
+          while (randomLooper < 0 || randomLooper > numberOfSongs || isNaN(randomLooper)){ randomLooper = parseInt(Math.random()*(numberOfSongs+1))
+          }
+          return randomLooper
+          }
+          var randomsub = randomNumber()
+          var soundFile = sound[randomsub]
+          document.write ('<EMBED src= "' + soundFile + '" hidden=true autostart=true loop=true>')
       </script>
   </head>
   <body>
