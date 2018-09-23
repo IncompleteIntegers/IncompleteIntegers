@@ -69,3 +69,6 @@ button.accounts {
   color: black;
   text-decoration: none;
 }
+#minceraft {
+  cursor: not-allowed;
+}
