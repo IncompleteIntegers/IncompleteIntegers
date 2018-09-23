@@ -91,3 +91,6 @@ button.accounts {
 .snowflake:hover {
     cursor: default;
 }
+#nc {
+  color: Red;
+}
