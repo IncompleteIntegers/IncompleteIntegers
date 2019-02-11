@@ -7,3 +7,6 @@ As of now, I did not write ANY of the javascript currently on this site. (mainly
 Random audio script: https://www.coffeecup.com/forums/website-design-and-development/need-a-random-mp3-to-play-on-page-load/
 
 Snowflake script: https://www.kirupa.com/html5/the_falling_snow_effect.htm
+
+
+Also, I copy+paste coded the planeet cursor
