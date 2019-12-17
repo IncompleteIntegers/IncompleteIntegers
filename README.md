@@ -1,6 +1,6 @@
 # IncompleteIntegers.com
 My website's crappy HTML
-Listen, I really have zero idea what I'm doing. I can barely use HTML, if that says anything.
+Listen, I really have zero idea what I'm doing. I can /sort of/ write HTMl, sometimes I can even do something which can vaguely be called css.
 
 !NOTE!
 As of now, I did not write ANY of the javascript currently on this site. (The reasoning behind this lying in the fact that I have zero clue how to write js)
