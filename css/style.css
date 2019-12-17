@@ -116,3 +116,6 @@ table,tr,td {
     background-color: Gainsboro;
     border: solid thin;
 }
+#oops {
+  color: DarkOrchid;
+}
