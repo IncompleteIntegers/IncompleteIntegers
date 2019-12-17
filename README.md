@@ -9,4 +9,4 @@ Random audio script: https://www.coffeecup.com/forums/website-design-and-develop
 Snowflake script: https://www.kirupa.com/html5/the_falling_snow_effect.htm
 
 
-Also, I copy+paste coded the planet cursor, cause it looked pretty
+Also, I copy+paste coded the planet cursor, cause it looked pretty. Forgive me internet plagiarism gods.
