@@ -64,7 +64,7 @@ function Snowflake(element, radius, speed, xPos, yPos) {
 
 	// setting an initial opacity and size for our snowflake
     this.element.style.opacity = .1 + Math.random();
-    this.element.style.fontSize = 12 + Math.random() * 30 + "px";
+    this.element.style.fontSize = 12 + Math.random() * 50 + "px";
 }
 
 //
