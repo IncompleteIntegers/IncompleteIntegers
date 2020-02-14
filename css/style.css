@@ -18,9 +18,10 @@
 .contentsbtn {
   background-color: PapayaWHip;
   padding: 6px 3px;
-  border-width: 1px;
+  border-width: 1.5px;
   border-radius: 10px;
   border-style: solid;
+  border-color: Plum;
 }
 #fourohfour {
   background-color: DeepPink;
@@ -37,6 +38,9 @@
 .list-img {
   list-style-type: square;
   padding: 10px;
+}
+.list-other{
+  list-style-type: none;
 }
 .list {
   list-style-type: initial;
