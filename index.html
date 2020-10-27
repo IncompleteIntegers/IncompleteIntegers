@@ -29,12 +29,12 @@
           sound[2]= "audio/mpaudio/halloween/thisishalloween.mp3"
           sound[3]= "audio/mpaudio/halloween/ghosttown.mp3"
           sound[4]= "audio/mpaudio/halloween/beautifulpeople.mp3"
-        //Christmas Songs
-          //sound[0]= "audio/mpaudio/christmas/alliwantforchristmas.mp3"
-          //sound[1]= "audio/mpaudio/christmas/alliwantforchristmas.mp3"
-          //sound[2]= "audio/mpaudio/christmas/alliwantforchristmas.mp3"
-          //sound[3]= "audio/mpaudio/christmas/alliwantforchristmas.mp3"
-          //sound[4]= "audio/mpaudio/christmas/alliwantforchristmas.mp3"
+        //Christmas Songs, mix in with Normal songs
+          //sound[12]= "audio/mpaudio/christmas/alliwantforchristmas.mp3"
+          //sound[13]= "audio/mpaudio/christmas/alliwantforchristmas.mp3"
+          //sound[14]= "audio/mpaudio/christmas/alliwantforchristmas.mp3"
+          //sound[15]= "audio/mpaudio/christmas/alliwantforchristmas.mp3"
+          //sound[16]= "audio/mpaudio/christmas/alliwantforchristmas.mp3"
         function randomNumber(){
           var randomLooper = -1
           while (randomLooper < 0 || randomLooper > numberOfSongs || isNaN(randomLooper)){ randomLooper = parseInt(Math.random()*(numberOfSongs+1))
@@ -57,6 +57,7 @@
       <h1 align="center">Welcome<a id="minceraft" class="hide-link" href="/totally-safe.html">?</a></h1>
       <h3 id="nc" align="center">It's <strike>chrimas</strike></h3>
       <h3 align="center">You've entered 1998</h3>
+      <button onClick="window.location.reload();">Click Here To Hear The Funky Audio If You're On Chrome, Because Google Doesn't Like Fun. No I'm Not Mad.</button>
       <nav class="navbar" align="center">
         <button class="nav" onclick="location.href='./index.html'">Main Page</button>
         <button class="nav" onclick="location.href='./about.html'">About</button>
