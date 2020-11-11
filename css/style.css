@@ -96,7 +96,7 @@ button.accounts {
     font-size: 21px;
     line-height: 24px;
     position: fixed;
-    color: DarkOrange; /*Normal Color: Yellow; Spoopy Color: DarkOrange*/
+    color: LightBlue; /*Normal Color: Yellow; Spoopy Color: DarkOrange; Chrimas Color: LightBlue*/
     user-select: none;
     z-index: 1000;
     background-color: rgba(255, 255, 255, 0);
